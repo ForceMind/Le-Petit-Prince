@@ -1,0 +1,37 @@
+# ---- macOS ----
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---- Windows ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---- 下载/临时文件（抢救资源产生的分块与临时文件）----
+*.part*
+*.cat
+.dl_tmp_*
+
+# ---- 编辑器 ----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---- 日志 / 本地依赖 ----
+*.log
+node_modules/
+
+# ---- 本地解压/分析临时目录（不入库）----
+extract/
+extracted/
+analysis/
+
+# ---- Reasonix 工作目录 ----
+.reasonix/
+
+# Restored oversized resources (tracked as verified parts)
+/StreamingAssets/aa/Brotli/geo_scenes_all_51dcdcc97916712edd4bd2822a3ae928.bundle.79056e01a9dc972a2d484507f4f054c0.br
+/StreamingAssets/aa/Brotli/theater_scenes_all_e2f618313ea2960aa084f1d092ed065b.bundle.ab16d38412da5c77b5d77444b3696a12.br

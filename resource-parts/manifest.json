@@ -1,0 +1,32 @@
+[
+  {
+    "path": "StreamingAssets/aa/Brotli/geo_scenes_all_51dcdcc97916712edd4bd2822a3ae928.bundle.79056e01a9dc972a2d484507f4f054c0.br",
+    "size": 118074255,
+    "sha256": "07aadf05d6db4f9692f5c22a2258155565f39a347e1273eaaf5054dc598d8a63",
+    "parts": [
+      {
+        "name": "geo_scenes_all_51dcdcc97916712edd4bd2822a3ae928.bundle.79056e01a9dc972a2d484507f4f054c0.br.000",
+        "sha256": "f6f4d3e3e6d2197203c30d8cc454c225b1946f6f17f7d1200b536b12202d507e"
+      },
+      {
+        "name": "geo_scenes_all_51dcdcc97916712edd4bd2822a3ae928.bundle.79056e01a9dc972a2d484507f4f054c0.br.001",
+        "sha256": "61a7899f2790d14d5f1a03453763c689f2d9d75db6714fbc7169b80c146499af"
+      }
+    ]
+  },
+  {
+    "path": "StreamingAssets/aa/Brotli/theater_scenes_all_e2f618313ea2960aa084f1d092ed065b.bundle.ab16d38412da5c77b5d77444b3696a12.br",
+    "size": 152909946,
+    "sha256": "fc38169ba126d10de41700db54b81327a43021e2100c9e3e885811bb2e7fcba6",
+    "parts": [
+      {
+        "name": "theater_scenes_all_e2f618313ea2960aa084f1d092ed065b.bundle.ab16d38412da5c77b5d77444b3696a12.br.000",
+        "sha256": "24e52b0b339dd9c481f283255538c8658aaf8a1a9bf91a327a47f2c9225f905e"
+      },
+      {
+        "name": "theater_scenes_all_e2f618313ea2960aa084f1d092ed065b.bundle.ab16d38412da5c77b5d77444b3696a12.br.001",
+        "sha256": "0f6f8042bd00a2ae83bbf8208596e4959be45ecc2812af16b7dd86ec2f2af866"
+      }
+    ]
+  }
+]
